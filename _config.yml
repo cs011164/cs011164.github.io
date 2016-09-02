@@ -2,7 +2,7 @@
 title: USTC C Programming Language I
 description: Main page for USTC C Programming Language I
 #baseurl: "https://localhost:4000" # the subpath of your site, e.g. /blog
-#url: "http://" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://cs011164.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Si-Yuan Zhuang
