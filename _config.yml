@@ -20,7 +20,7 @@ permalink: /:title/
 
 
 image_url: /assets/img
-
+posts_img: /assets/img/posts
 
 # html minify
 compress_html:
